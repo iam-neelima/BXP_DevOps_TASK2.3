@@ -1,6 +1,6 @@
 #!/bin/bash
 # ------------------------------------------------------------------------------
-# Script Name : 4_upload_zips_to_drive.sh
+# Script Name : upload_to_drive.sh
 ## Author     : Neelima Gali
 # Date        : 2025-04-09
 # Description : Uploads all ZIP files from 'github_zips/' to a specified Google drive folder
