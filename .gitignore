@@ -1,0 +1,7 @@
+rclone-extracted
+rclone.zip
+# Ignore log files
+auth.log
+
+# Ignore zip files
+*.zip
